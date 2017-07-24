@@ -14,9 +14,7 @@ settings =
 		plist =
 		{
 			-- UIApplicationExitsOnSuspend = true, -- default is false
-			CFBundleIconFile = "Icon.png",
-			NSMicrophoneUsageDescription = "testing",
-			NSSpeechRecognitionUsageDescription="Speech recognition will be used to determine which words you speak into this device's microphone.",
+			CFBundleIconFile = "Icon.png",s
 			CFBundleIconFiles =
 			{
 				"Icon.png", 
